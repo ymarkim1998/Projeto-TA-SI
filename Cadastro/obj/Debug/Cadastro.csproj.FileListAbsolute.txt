@@ -1,0 +1,9 @@
+C:\Users\aluno.4rlab01\Downloads\Projeto-TA-SI-master\Cadastro\bin\Debug\Cadastro.exe.config
+C:\Users\aluno.4rlab01\Downloads\Projeto-TA-SI-master\Cadastro\bin\Debug\Cadastro.exe
+C:\Users\aluno.4rlab01\Downloads\Projeto-TA-SI-master\Cadastro\bin\Debug\Cadastro.pdb
+C:\Users\aluno.4rlab01\Downloads\Projeto-TA-SI-master\Cadastro\obj\Debug\Cadastro.csprojAssemblyReference.cache
+C:\Users\aluno.4rlab01\Downloads\Projeto-TA-SI-master\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+C:\Users\aluno.4rlab01\Downloads\Projeto-TA-SI-master\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+C:\Users\aluno.4rlab01\Downloads\Projeto-TA-SI-master\Cadastro\obj\Debug\Cadastro.exe
+C:\Users\aluno.4rlab01\Downloads\Projeto-TA-SI-master\Cadastro\obj\Debug\Cadastro.pdb
+C:\Users\aluno.4rlab01\Downloads\Projeto-TA-SI-master\Cadastro\obj\Debug\Cadastro.frmClientes.resources

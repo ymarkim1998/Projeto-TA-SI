@@ -12,10 +12,10 @@ namespace Cadastro
         SqlConnection con = new SqlConnection();
         public Conexao()
         {
-            con.ConnectionString = @"Data Source=MARCOS-PC\SQLEXPRESS;Initial Catalog=Cadastro;Integrated Security=True;Pooling=False";
+            con.ConnectionString = @"Data Source=4RLAB01-20\SQLEXPRESS;Initial Catalog=Cadastro;Integrated Security=True;Pooling=False";
         }
    
-        public SqlConnection Conectar()
+        public SqlConnection conectar()
         {
             if(con.State == System.Data.ConnectionState.Closed)
             {
@@ -24,7 +24,7 @@ namespace Cadastro
             return con;
         }
 
-        public void Desconectar()
+        public void desconectar()
         {
             if (con.State == System.Data.ConnectionState.Open)
             {
